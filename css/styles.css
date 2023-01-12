@@ -50,7 +50,7 @@ img {
 }
 
 .container {
-  /* width: 320px; */
+  min-width: 320px;
   width: 428px;
   padding: 0 16px;
   margin-left: auto;
